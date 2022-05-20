@@ -1,0 +1,46 @@
+# Personalized appsettings.json files
+usersettings.json
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+.idea
+.ionide
+
+# Visual Studio Code
+.vscode
+.history
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+frontend/packages/proxy/dist
+OrleansAdoNetContent
+data_temp
+
+# Visual Studio 2015
+.vs/
+
+appsettings.local.json
+global.json
